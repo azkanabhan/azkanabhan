@@ -47,7 +47,7 @@ I build scalable, modern, and user-friendly web applications end-to-end — from
 
 - **LinkedIn**: [linkedin.com/in/azkanabhan](https://www.linkedin.com/in/azkanabhan/)
 - **Email**: [azkanabhansauqi@gmail.com](mailto:azkanabhanSauqi@gmail.com)
-- **Portfolio**: [my-portofolio-kyaxwq4wx-azkanabhans-projects.vercel.app](https://my-portofolio-seven-hazel.vercel.app/)
+- **Portfolio**: [my-portofolio](https://my-portofolio-seven-hazel.vercel.app/)
 
 
 ---
